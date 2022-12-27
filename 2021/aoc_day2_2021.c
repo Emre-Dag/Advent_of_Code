@@ -4,7 +4,7 @@
 #include <math.h>
 
 #define MAX_LINES 2000
-#define MAX_LEN   10
+#define MAX_LEN   50
 int main()
 {
 	FILE* fp=NULL;
